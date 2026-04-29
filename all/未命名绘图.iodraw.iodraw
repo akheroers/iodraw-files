@@ -139,10 +139,10 @@
           <mxGeometry x="290" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TSWZaMoHD-H1P83sGQX6-46" value="职工号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="780" width="85" height="70" as="geometry" />
+          <mxGeometry x="115" y="780" width="85" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TSWZaMoHD-H1P83sGQX6-47" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="780" width="85" height="70" as="geometry" />
+          <mxGeometry x="215" y="780" width="85" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TSWZaMoHD-H1P83sGQX6-48" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="780" width="85" height="70" as="geometry" />
