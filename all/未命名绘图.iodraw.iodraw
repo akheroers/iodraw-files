@@ -135,9 +135,6 @@
         <mxCell id="TSWZaMoHD-H1P83sGQX6-44" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="498" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TSWZaMoHD-H1P83sGQX6-45" value="员工" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="970" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="TSWZaMoHD-H1P83sGQX6-46" value="职工号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="780" width="85" height="70" as="geometry" />
         </mxCell>
@@ -153,13 +150,13 @@
         <mxCell id="TSWZaMoHD-H1P83sGQX6-50" value="出生年月" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="780" width="85" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TSWZaMoHD-H1P83sGQX6-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TSWZaMoHD-H1P83sGQX6-50">
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TSWZaMoHD-H1P83sGQX6-45" target="TSWZaMoHD-H1P83sGQX6-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="970" as="sourcePoint" />
             <mxPoint x="610" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSWZaMoHD-H1P83sGQX6-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TSWZaMoHD-H1P83sGQX6-49">
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TSWZaMoHD-H1P83sGQX6-45" target="TSWZaMoHD-H1P83sGQX6-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="970" as="sourcePoint" />
             <mxPoint x="415" y="850" as="targetPoint" />
@@ -184,6 +181,16 @@
             <mxPoint x="430" y="920" as="sourcePoint" />
             <mxPoint x="480" y="870" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TSWZaMoHD-H1P83sGQX6-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="970" as="sourcePoint" />
+            <mxPoint x="483" y="850" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-45" value="员工" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
