@@ -138,6 +138,21 @@
         <mxCell id="TSWZaMoHD-H1P83sGQX6-45" value="员工" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="890" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-46" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="760" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-47" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="770" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-48" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="780" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-49" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="790" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-50" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="800" width="85" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
