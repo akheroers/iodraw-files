@@ -159,10 +159,11 @@
             <mxPoint x="480" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSWZaMoHD-H1P83sGQX6-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TSWZaMoHD-H1P83sGQX6-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="365" y="900" as="sourcePoint" />
             <mxPoint x="415" y="850" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TSWZaMoHD-H1P83sGQX6-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TSWZaMoHD-H1P83sGQX6-48">
