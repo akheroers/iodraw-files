@@ -22,6 +22,12 @@
         <mxCell id="TSWZaMoHD-H1P83sGQX6-7" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-10" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="340" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
