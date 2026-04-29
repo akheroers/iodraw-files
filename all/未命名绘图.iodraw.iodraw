@@ -150,7 +150,7 @@
         <mxCell id="TSWZaMoHD-H1P83sGQX6-49" value="职务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="780" width="85" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TSWZaMoHD-H1P83sGQX6-50" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-50" value="出生年月" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="780" width="85" height="70" as="geometry" />
         </mxCell>
       </root>
