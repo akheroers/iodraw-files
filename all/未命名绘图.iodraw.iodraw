@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TSWZaMoHD-H1P83sGQX6-40" value="领导" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TSWZaMoHD-H1P83sGQX6-41" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TSWZaMoHD-H1P83sGQX6-2" target="TSWZaMoHD-H1P83sGQX6-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
