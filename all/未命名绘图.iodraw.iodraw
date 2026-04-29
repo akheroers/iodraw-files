@@ -136,7 +136,7 @@
           <mxGeometry x="215" y="498" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TSWZaMoHD-H1P83sGQX6-45" value="员工" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="302.5" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="302.5" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TSWZaMoHD-H1P83sGQX6-46" value="职工号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="780" width="85" height="70" as="geometry" />
@@ -153,7 +153,7 @@
         <mxCell id="TSWZaMoHD-H1P83sGQX6-50" value="出生年月" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="780" width="85" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TSWZaMoHD-H1P83sGQX6-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TSWZaMoHD-H1P83sGQX6-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TSWZaMoHD-H1P83sGQX6-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="900" as="sourcePoint" />
             <mxPoint x="480" y="870" as="targetPoint" />
