@@ -14,7 +14,7 @@
           <mxGeometry x="405" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TSWZaMoHD-H1P83sGQX6-4" value="项目" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="490" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TSWZaMoHD-H1P83sGQX6-5" value="仓库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="180" width="120" height="60" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry x="275" y="280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TSWZaMoHD-H1P83sGQX6-37" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="450" y="338" width="32.5" height="22" as="geometry" />
+          <mxGeometry x="440" y="360" width="50" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
