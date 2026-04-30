@@ -211,7 +211,7 @@
         <mxCell id="8Om7psNlzt8kHqlu1WPB-32" value="借出时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="710" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8Om7psNlzt8kHqlu1WPB-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="8Om7psNlzt8kHqlu1WPB-31">
+        <mxCell id="8Om7psNlzt8kHqlu1WPB-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8Om7psNlzt8kHqlu1WPB-4" target="8Om7psNlzt8kHqlu1WPB-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="820" as="sourcePoint" />
             <mxPoint x="450" y="770" as="targetPoint" />
@@ -221,6 +221,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="820" as="sourcePoint" />
             <mxPoint x="450" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Om7psNlzt8kHqlu1WPB-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="sourcePoint" />
+            <mxPoint x="450" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
