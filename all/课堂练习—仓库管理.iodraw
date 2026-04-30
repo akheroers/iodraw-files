@@ -103,6 +103,9 @@
         <mxCell id="8Om7psNlzt8kHqlu1WPB-2" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8Om7psNlzt8kHqlu1WPB-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
